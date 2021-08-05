@@ -225,7 +225,7 @@ body {
 ==================================================*/
 
 header {
-    text-align: left;
+    text-align: center;
     -webkit-transition: all .5s;
     transition: all .5s;
     height: 65px;
